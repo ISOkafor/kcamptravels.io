@@ -14,12 +14,7 @@
     box-shadow: rgba(0, 0, 0, 0.24) 0px 3px 8px;
 }
 
-.translate {
-    transform: translateY(-75px);
-    z-index: 2;
-}
-
-.index1 {
-    z-index: -1;
+.top-100 {         
+    top: 680px !important;      
 }
 
