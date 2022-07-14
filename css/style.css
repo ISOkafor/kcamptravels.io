@@ -18,6 +18,10 @@
     top: 680px !important;      
 }
 
+#map {
+    height: 520px !important;    
+}
+
 /* Mobile View */
 @media (max-width: 426px) {
     #get-in-touch {        
